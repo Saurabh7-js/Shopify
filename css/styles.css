@@ -747,6 +747,7 @@ color: #fff;
     display: grid;
     font-size: 2rem;
     font-weight: 600;
+    color: #232323;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(2, 6rem);
     justify-items: center;
