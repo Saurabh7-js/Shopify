@@ -303,6 +303,8 @@ a{
 .input-group .input{
     border: none;
     flex-grow: 1;
+    width: 0;
+    padding: 1.5rem 2rem;
 }
 
 .input-group .btn{
