@@ -176,7 +176,7 @@ a{
 }
 
 .icon-container{
-    background: #93ced8;
+    background: #e9f5f5;
     width: 64px;
     height: 64px;
     border-radius: 100%;
@@ -537,7 +537,7 @@ a{
 
 .callout--primary{
     background-color: var(--color-primary);
-    color: #ff8282;
+    color: #fff;
 }
 
 .callout__heading{
@@ -783,6 +783,7 @@ color: #fff;
 }
 
 .feature__heading{
+    font-weight: 600;
     margin: 1rem 0;
 }
 
@@ -840,7 +841,8 @@ color: #fff;
 
 .footer__section .list{
     margin: 0;
-    font-size: 1.5rem;
+    font-size: 1.9rem;
+    line-height: 1.7;
 }
 
 .footer__heading{
